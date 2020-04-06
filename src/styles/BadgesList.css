@@ -1,0 +1,25 @@
+.fn_ln_list,
+.img_twttr_list,
+.job_title_list {
+  margin-bottom: 0px;
+}
+
+.fn_ln_list {
+  font-weight: bold;
+}
+
+.img_twttr_list {
+  color: #2caae1;
+}
+
+.job_title_list {
+  font-size: 14px;
+}
+
+.cont_badges_list {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.bages_list_avtr_url {
+  border-radius: 50%;
+}
